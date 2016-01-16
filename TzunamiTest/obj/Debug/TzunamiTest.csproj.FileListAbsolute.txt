@@ -1,0 +1,5 @@
+c:\users\george\documents\visual studio 2013\Projects\TzunamiTest\TzunamiTest\bin\Debug\TzunamiTest.exe.config
+c:\users\george\documents\visual studio 2013\Projects\TzunamiTest\TzunamiTest\bin\Debug\TzunamiTest.exe
+c:\users\george\documents\visual studio 2013\Projects\TzunamiTest\TzunamiTest\bin\Debug\TzunamiTest.pdb
+c:\users\george\documents\visual studio 2013\Projects\TzunamiTest\TzunamiTest\obj\Debug\TzunamiTest.exe
+c:\users\george\documents\visual studio 2013\Projects\TzunamiTest\TzunamiTest\obj\Debug\TzunamiTest.pdb
